@@ -1,0 +1,7 @@
+0. 2 pm class
+1. 3 pm haircut
+0. haircut
+1. cricket
+0. cricket
+1. football
+2. hockey
